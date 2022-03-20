@@ -16,6 +16,11 @@ This project shows how to train a YOLOv5 object detection model for detecting In
   <img src="images\1.png" alt="workflow"/>
 </p>
 
+## Classes vs Count in each Class used in training:
+
+<p align="center">
+  <img src="images\label.png" alt="workflow"/>
+</p>
 
 ## Output:
 

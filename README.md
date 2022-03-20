@@ -10,14 +10,14 @@ This project shows how to train a YOLOv5 object detection model for detecting In
 3. data.yaml file - it mentioned number of classes, name of classes ,and train and test paths.
 
 
-** Target vs mAP:**
+## Target vs mAP:
 
 <p align="center">
   <img src="images\1.png" alt="workflow"/>
 </p>
 
 
-** Output:**
+## Output:
 
 <p align="center">
   <img src="images\output.png" alt="workflow"/>

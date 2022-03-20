@@ -17,7 +17,11 @@ This project shows how to train a YOLOv5 object detection model for detecting In
 </p>
 
 
+** Output:**
 
+<p align="center">
+  <img src="images\output.png" alt="workflow"/>
+</p>
 
 
 
